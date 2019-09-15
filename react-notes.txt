@@ -1,0 +1,17 @@
+//React setup Udemy
+
+-> npx create-react-app app-nameE:\myspace\react-code\portfolio\node_modules\src  (create react app with default structure)
+-> npm init -y (generates package.json)
+-> npm i parcel-bundler@1.10.3 --save (for bundling purpose)
+-> npm i react@16.6.3 react-dom@16.6.3 --save
+-> npm i @babel/plugin-proposal-class-properties@7.2.3 --save (includes class properties syntax) //add babel.rc in root to transpile class property syntax
+-> npm i live-server@1.2.1 --save (for serving the build of app)
+
+=> https://github.com/public-apis/public-apis#animals
+=> https://github.com/15Dkatz/official_joke_api
+
+--------------------------------------------------------------------
+
+-> npm i react-router-dom@4.3.1 --save
+-> npm i history@4.7.2 --save
+-> 
