@@ -1,4 +1,4 @@
-//React setup Udemy
+//React setup 
 
 -> npx create-react-app app-nameE:\myspace\react-code\portfolio\node_modules\src  (create react app with default structure)
 -> npm init -y (generates package.json)
