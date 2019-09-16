@@ -13,10 +13,8 @@ import './index.css';
 ReactDOM.render(
     <Router history={createBrowserHistory()}>
         <Switch>
-            {/* <Route exact path='/' component={App} />
-            <Route path='jokes' component={Jokes} /> */}
             <Route exact path='/' render={() => <Header><App /></Header>} />
-            <Route path='jokes' render={() => <Header><Jokes /></Header>} />
+            <Route path='/jokes' render={() => <Header><Jokes /></Header>} />
         </Switch>
     </Router>
     ,document.getElementById('root'))

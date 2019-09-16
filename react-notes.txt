@@ -7,8 +7,9 @@
 -> npm i @babel/plugin-proposal-class-properties@7.2.3 --save (includes class properties syntax) //add babel.rc in root to transpile class property syntax
 -> npm i live-server@1.2.1 --save (for serving the build of app)
 
-=> https://github.com/public-apis/public-apis#animals
-=> https://github.com/15Dkatz/official_joke_api
+=> https://github.com/public-apis/public-apis#animals (most public api's link)
+=> https://github.com/15Dkatz/official_joke_api (joke api)
+=> https://github.com/15Dkatz/spotify-api-wrapper (wrapper for spotify api)
 
 --------------------------------------------------------------------
 
