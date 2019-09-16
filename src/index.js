@@ -5,6 +5,7 @@ import createBrowserHistory from 'history/createBrowserHistory';
 import App from './components/App';
 import Jokes from './components/Jokes';
 import Header from './components/Header';
+import MusicMaster from './projects/music-master';
 import './index.css';
 
 //const history =  createBrowserHistory();
